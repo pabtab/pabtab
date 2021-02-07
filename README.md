@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I'm Pablo Tabares </h1>
 
-<h3>Remote Front end developer</h3>
+<h3>Remote Front-end Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=pabtab&color=green)
 
