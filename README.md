@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pabtab&color=green)
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://pablotabares.co/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://pablotabares.dev/)
 
 <br/>
 
