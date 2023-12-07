@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I'm Pablo Tabares </h1>
 
-<h3>Sofware Engineer / Front-end Enginerr</h3>
+<h3>Sofware Engineer / Front-end Engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=pabtab&color=green)
 
